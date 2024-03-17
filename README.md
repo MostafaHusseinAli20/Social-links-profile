@@ -3,7 +3,7 @@
 ![Design preview for the Social links profile coding challenge]()
 
 ## Welcome! 👋
-Link Challenge Preview [...](https://mostafahusseinali20.github.io/Social-links-profile/)
+Link Challenge Preview [...](./design/desktop-preview.jpg)
 
 Thanks for checking out this front-end coding challenge.
 
